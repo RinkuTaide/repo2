@@ -10,4 +10,5 @@ if(temp==sum):
     print("number is Armstrong")
 else:
     print("number is not a Armstrong")
+    print(5+50)
 
