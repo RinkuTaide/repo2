@@ -8,6 +8,11 @@ while(x>0):
     x=x//10
 if(temp==sum):
     print("number is Armstrong")
+    print("number is Armstrong")
+    print("number is Armstrong")
+    print("number is Armstrong")
 else:
+    print("number is not a Armstrong")
+    print("number is not a Armstrong")
     print("number is not a Armstrong")
 
