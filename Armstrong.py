@@ -15,5 +15,5 @@ else:
     print("number is not a Armstrong")
     print("number is not a Armstrong")
     print("number is not a Armstrong")
-    print("number is not a hello")
+    print("number is not a hello bello")
 
